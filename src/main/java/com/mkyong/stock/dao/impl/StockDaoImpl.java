@@ -1,6 +1,6 @@
-package com.mkyong.dao.impl;
+package com.mkyong.stock.dao.impl;
 
-import com.mkyong.dao.StockDao;
+import com.mkyong.stock.dao.StockDao;
 
 /**
  * Created by Sergey on 01.12.2016.
